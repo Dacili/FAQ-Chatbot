@@ -12,6 +12,8 @@ Demo in Bot Framework Emulator (locally):
 
 https://github.com/Dacili/FAQ-Chatbot/assets/37112852/c06d32dd-0531-4330-afd2-74fe7296ff6a
 
+
+This project ***was not created using QnA Maker*** because it's deprecated and going to be retired, and it's not recommended for use anymore.  
 ### Create, test, and deploy a custom question answering project
 1. Create **Language** service in Azure
 2. Navigate to Language resource and open **Features**. In features check the checkbox, and create a new service for **Azure Cognitive Search service**:
