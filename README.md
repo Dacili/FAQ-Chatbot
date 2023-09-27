@@ -1,10 +1,11 @@
 # FAQ Medi Chatbot
 FAQ Medi Chatbot is a chatbot that is used for frequently asked questions.   <br/> <br/>
-   
+
 You should use this type of chatbot when:
 - your data is static
 - when different users submit the same question, the same answer is returned.
 
+*If you want to check automatically generated readme file, check this file* https://github.com/Dacili/FAQ-Chatbot/blob/master/README1.md  <br/>  
 Demo in Bot Framework Emulator (locally):   
 
 
