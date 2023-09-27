@@ -15,6 +15,7 @@ https://github.com/Dacili/FAQ-Chatbot/assets/37112852/c06d32dd-0531-4330-afd2-74
 
 This project ***was not created using QnA Maker*** because it's deprecated and going to be retired, and it's not recommended for use anymore.  
 ### Create, test, and deploy a custom question answering project
+I was following this official documentation: https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/quickstart/sdk?tabs=windows&pivots=studio  
 1. Create **Language** service in Azure
 2. Navigate to Language resource and open **Features**. In features check the checkbox, and create a new service for **Azure Cognitive Search service**:
 ![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/877cf397-015d-427c-94e3-5083e51d6bbe)
@@ -32,7 +33,10 @@ This project ***was not created using QnA Maker*** because it's deprecated and g
 ![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/17339c0c-9260-4e77-b104-97d624a8c767)
 8. You will see on the left side different options such as editing and deploying KB. In the center you will see question-answer objects.  
 You can add a new one, or edit an existing one. While editing you can add prompts (which are actually suggestions, shown like button to the user).  
-![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/8457913e-2d08-463d-8020-7700ea3051e7)
+![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/8457913e-2d08-463d-8020-7700ea3051e7)   
+You can test KB if you click on this icon:  
+![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/d3c7ecd6-42d6-49b5-9cb5-6b844480d6ea)  
+
 9. Once you're done with setting up a KB. Click on Deploy knowledge base, and deploy it.  
 ![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/608411e7-21ad-4f3a-ba9a-ebf0b0de41fc)  
 10. If you have not created a bot and app service already, click on Create a bot. It will actually navigate you to create both of these together, while also setting up the configuration for you, so you don't have to handle it manually. This is awesome if you don't want to see any code.  <br/> <br/>
