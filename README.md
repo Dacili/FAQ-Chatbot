@@ -28,9 +28,9 @@ I was following this official documentation: https://learn.microsoft.com/en-us/a
 5. Create a simple excel file, with a few questions and answers, like on the image:  
 ![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/d959112a-94ab-461d-b5b2-af40da925e66)  
 6. Click Add source -> Files, and then upload the excel file that you created.  
-![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/e27057d1-1656-49c4-8d40-3633d3a3b885)
+![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/e27057d1-1656-49c4-8d40-3633d3a3b885)  
 7. After you're done, you should be able to see generated Knowledge base (KB), and click on it:  
-![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/17339c0c-9260-4e77-b104-97d624a8c767)
+![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/17339c0c-9260-4e77-b104-97d624a8c767)  
 8. You will see on the left side different options such as editing and deploying KB. In the center you will see question-answer objects.  
 You can add a new one, or edit an existing one. While editing you can add prompts (which are actually suggestions, shown like button to the user).  
 ![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/8457913e-2d08-463d-8020-7700ea3051e7)   
