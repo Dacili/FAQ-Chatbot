@@ -5,9 +5,6 @@ You should use this type of chatbot when:
 - your data is static
 - when different users submit the same question, the same answer is returned.
 
-Azure services needed:  
-![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/4cf74cb8-85a4-4b5c-958c-fafaf2d846e2)
-
 Demo in Bot Framework Emulator (locally):   
 
 
@@ -47,5 +44,9 @@ Demo in Azure (deployed):
 
 https://github.com/Dacili/FAQ-Chatbot/assets/37112852/a17ec54d-35a1-44ea-b07f-f83219dd6a83   
 
- 
+
+
+ Azure services needed in total:  
+![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/4cf74cb8-85a4-4b5c-958c-fafaf2d846e2)
+
 
