@@ -54,6 +54,10 @@ https://github.com/Dacili/FAQ-Chatbot/assets/37112852/a17ec54d-35a1-44ea-b07f-f8
 
 
  Azure services needed in total:  
-![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/4cf74cb8-85a4-4b5c-958c-fafaf2d846e2)
+![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/4cf74cb8-85a4-4b5c-958c-fafaf2d846e2)   
+
+Integrated in teams:  
+![image](https://github.com/Dacili/FAQ-Chatbot/assets/37112852/0154e587-e19a-4afb-b09e-424827d3c7f0)
+
 
 
